@@ -9,6 +9,6 @@ int main()
 {
     int n;
     cin>>n;
-    cout<<f91(n);
+    cout<<f91(n)<<endl;
     return 0;
 }
